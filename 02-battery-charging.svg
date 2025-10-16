@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px"
+	 height="512px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g id="battery-charging">
+	<path d="M486.399,256h-51.2v-51.208c0-14.142-11.449-25.592-25.6-25.592H256v-25.6h25.6V128H256V0h-76.801v128H128V0H51.199v128
+		H25.6v25.6h25.6v25.6H25.6c-14.15,0-25.6,11.45-25.6,25.592v256c0,14.157,11.449,25.601,25.6,25.601h115.2V512h25.6v-25.607h243.2
+		c14.15,0,25.6-11.443,25.6-25.601V409.6h51.2C500.55,409.6,512,398.15,512,384V281.6C512,267.449,500.55,256,486.399,256z
+		 M204.8,25.6h25.6V128h-25.6V25.6z M76.8,25.6h25.6V128H76.8V25.6z M140.8,460.792H25.6v-256h25.6V230.4l51.2,51.2V384h38.4
+		V460.792z M128,358.4V271l-51.2-51.205V153.6h153.6v66.195L179.199,271v87.4H128z M409.6,460.792h-243.2V384h38.4V281.6l51.2-51.2
+		v-25.608h153.6V460.792z M486.399,384h-51.2V281.6h51.2V384z M326.399,230.4l-32,87.77h64l-96,117.029l32-87.779h-64L326.399,230.4
+		z"/>
+</g>
+<g id="Layer_1">
+</g>
+</svg>
